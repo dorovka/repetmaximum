@@ -3,3 +3,5 @@ git config --global user.email 'i.serafimovich@list.ru'
 git config --list
 
 12314125125
+
+git remote add origin https://github.com/dorovka/repetmaximum.git
